@@ -1,0 +1,28 @@
+# Python
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Trained artifacts (recreate by running Analysis_Model.ipynb)
+*.pkl
+*.joblib
+
+# Secrets / env
+.env
+.env.local
+*.env
+
+# IDE
+.idea/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
