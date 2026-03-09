@@ -26,7 +26,3 @@ __pycache__/
 # OS
 .DS_Store
 Thumbs.db
-
-# Bike rental EDA — optional: uncomment to avoid committing large CSVs
-# data/hour.csv
-# data/day.csv
